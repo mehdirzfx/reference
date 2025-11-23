@@ -41,6 +41,7 @@ intro: |
 | `Ctrl` `E`            | Edit Media                          |
 | `Ctrl` `(click gif)`  | Send GIF Directly                   |
 | `Ctrl` `(click name)` | Open Bot Profile via Inline Message |
+| `Ctrl` `(click profile)` | Open the conversation in a new window |
 
 {.shortcuts}
 
